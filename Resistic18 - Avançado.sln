@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaBancaria", "DotNet - A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcecaoAmigavel", "DotNet - Avançado\Exercicio Aula 02 - Generics\ExcecaoAmigavel\ExcecaoAmigavel.csproj", "{B8E7023C-653B-4E27-97A9-65EA20AFDFF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "DotNet - Avançado\Exercicio Aula 02 - Generics\Enum\Enum.csproj", "{ED643898-7F58-446A-980E-77B35E58ED8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{B8E7023C-653B-4E27-97A9-65EA20AFDFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8E7023C-653B-4E27-97A9-65EA20AFDFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8E7023C-653B-4E27-97A9-65EA20AFDFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED643898-7F58-446A-980E-77B35E58ED8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED643898-7F58-446A-980E-77B35E58ED8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED643898-7F58-446A-980E-77B35E58ED8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED643898-7F58-446A-980E-77B35E58ED8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -33,6 +39,7 @@ Global
 		{CBF1B29E-329A-4F01-9A94-B59DD341802A} = {AEB2026F-B72F-48AC-913E-BCF0A0E8315C}
 		{651968F5-0B81-4AF3-AE90-9CC1A0387AA2} = {CBF1B29E-329A-4F01-9A94-B59DD341802A}
 		{B8E7023C-653B-4E27-97A9-65EA20AFDFF2} = {CBF1B29E-329A-4F01-9A94-B59DD341802A}
+		{ED643898-7F58-446A-980E-77B35E58ED8C} = {CBF1B29E-329A-4F01-9A94-B59DD341802A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DAD6205B-D157-4AB9-A9BF-3A22C360BD9D}
