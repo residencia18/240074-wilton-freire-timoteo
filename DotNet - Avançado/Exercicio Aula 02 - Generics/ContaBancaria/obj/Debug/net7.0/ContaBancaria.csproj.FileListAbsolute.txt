@@ -1,0 +1,14 @@
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\bin\Debug\net7.0\ContaBancaria.exe
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\bin\Debug\net7.0\ContaBancaria.deps.json
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\bin\Debug\net7.0\ContaBancaria.runtimeconfig.json
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\bin\Debug\net7.0\ContaBancaria.dll
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\bin\Debug\net7.0\ContaBancaria.pdb
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\obj\Debug\net7.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\obj\Debug\net7.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\obj\Debug\net7.0\ContaBancaria.dll
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\obj\Debug\net7.0\refint\ContaBancaria.dll
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\obj\Debug\net7.0\ContaBancaria.pdb
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\obj\Debug\net7.0\ContaBancaria.genruntimeconfig.cache
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\obj\Debug\net7.0\ref\ContaBancaria.dll
