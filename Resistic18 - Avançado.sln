@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DotNet - Avançado", "DotNet - Avançado", "{AEB2026F-B72F-48AC-913E-BCF0A0E8315C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio Aula 02 - Generics", "Exercicio Aula 02 - Generics", "{CBF1B29E-329A-4F01-9A94-B59DD341802A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaBancaria", "DotNet - Avançado\Exercicio Aula 02 - Generics\ContaBancaria\ContaBancaria.csproj", "{651968F5-0B81-4AF3-AE90-9CC1A0387AA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcecaoAmigavel", "DotNet - Avançado\Exercicio Aula 02 - Generics\ExcecaoAmigavel\ExcecaoAmigavel.csproj", "{B8E7023C-653B-4E27-97A9-65EA20AFDFF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{651968F5-0B81-4AF3-AE90-9CC1A0387AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651968F5-0B81-4AF3-AE90-9CC1A0387AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651968F5-0B81-4AF3-AE90-9CC1A0387AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651968F5-0B81-4AF3-AE90-9CC1A0387AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E7023C-653B-4E27-97A9-65EA20AFDFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E7023C-653B-4E27-97A9-65EA20AFDFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E7023C-653B-4E27-97A9-65EA20AFDFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E7023C-653B-4E27-97A9-65EA20AFDFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CBF1B29E-329A-4F01-9A94-B59DD341802A} = {AEB2026F-B72F-48AC-913E-BCF0A0E8315C}
+		{651968F5-0B81-4AF3-AE90-9CC1A0387AA2} = {CBF1B29E-329A-4F01-9A94-B59DD341802A}
+		{B8E7023C-653B-4E27-97A9-65EA20AFDFF2} = {CBF1B29E-329A-4F01-9A94-B59DD341802A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAD6205B-D157-4AB9-A9BF-3A22C360BD9D}
+	EndGlobalSection
+EndGlobal
