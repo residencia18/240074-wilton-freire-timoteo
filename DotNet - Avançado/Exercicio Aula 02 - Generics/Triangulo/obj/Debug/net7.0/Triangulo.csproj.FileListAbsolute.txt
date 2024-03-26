@@ -1,0 +1,15 @@
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/bin/Debug/net7.0/Triangulo
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/bin/Debug/net7.0/Triangulo.deps.json
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/bin/Debug/net7.0/Triangulo.runtimeconfig.json
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/bin/Debug/net7.0/Triangulo.dll
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/bin/Debug/net7.0/Triangulo.pdb
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/obj/Debug/net7.0/Triangulo.csproj.AssemblyReference.cache
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/obj/Debug/net7.0/Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/obj/Debug/net7.0/Triangulo.AssemblyInfoInputs.cache
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/obj/Debug/net7.0/Triangulo.AssemblyInfo.cs
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/obj/Debug/net7.0/Triangulo.csproj.CoreCompileInputs.cache
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/obj/Debug/net7.0/Triangulo.dll
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/obj/Debug/net7.0/refint/Triangulo.dll
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/obj/Debug/net7.0/Triangulo.pdb
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/obj/Debug/net7.0/Triangulo.genruntimeconfig.cache
+/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Triangulo/obj/Debug/net7.0/ref/Triangulo.dll
