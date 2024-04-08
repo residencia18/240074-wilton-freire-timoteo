@@ -1,0 +1,14 @@
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 03 - DLTAA\DLTAA\bin\Debug\net7.0\DLTAA.exe
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 03 - DLTAA\DLTAA\bin\Debug\net7.0\DLTAA.deps.json
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 03 - DLTAA\DLTAA\bin\Debug\net7.0\DLTAA.runtimeconfig.json
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 03 - DLTAA\DLTAA\bin\Debug\net7.0\DLTAA.dll
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 03 - DLTAA\DLTAA\bin\Debug\net7.0\DLTAA.pdb
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 03 - DLTAA\DLTAA\obj\Debug\net7.0\DLTAA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 03 - DLTAA\DLTAA\obj\Debug\net7.0\DLTAA.AssemblyInfoInputs.cache
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 03 - DLTAA\DLTAA\obj\Debug\net7.0\DLTAA.AssemblyInfo.cs
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 03 - DLTAA\DLTAA\obj\Debug\net7.0\DLTAA.csproj.CoreCompileInputs.cache
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 03 - DLTAA\DLTAA\obj\Debug\net7.0\DLTAA.dll
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 03 - DLTAA\DLTAA\obj\Debug\net7.0\refint\DLTAA.dll
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 03 - DLTAA\DLTAA\obj\Debug\net7.0\DLTAA.pdb
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 03 - DLTAA\DLTAA\obj\Debug\net7.0\DLTAA.genruntimeconfig.cache
+C:\Users\02049125550\Desktop\Resistic18 - Avançado\DotNet - Avançado\Exercicio Aula 03 - DLTAA\DLTAA\obj\Debug\net7.0\ref\DLTAA.dll
