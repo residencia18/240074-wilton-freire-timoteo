@@ -2,7 +2,7 @@
 {
     class Program
     {
-        static async void Main(string[] args)
+        static void Main(string[] args)
         {
 
             bool execute = true;
@@ -12,18 +12,18 @@
                 Console.WriteLine("1 - Async/Await");
                 Console.WriteLine("2 - Delegates");
                 Console.WriteLine("3 - Linq");
-                Console.WriteLine("4 - Threads");               
+                Console.WriteLine("4 - Threads");
                 Console.WriteLine("0 - Sair");
 
-                string opcao = Console.ReadLine();
+                string? opcao = Console.ReadLine();
 
                 switch (opcao)
                 {
                     case "1":
-                        await Classes.AsyncAwait.Run();
+                        Classes.AsyncAwait.Run();
                         break;
                     case "2":
-                        Console. WriteLine("Resultado:\n");
+                        Console.WriteLine("\nResultado:");
                         Classes.Delegates.Run();
                         break;
                     case "3":

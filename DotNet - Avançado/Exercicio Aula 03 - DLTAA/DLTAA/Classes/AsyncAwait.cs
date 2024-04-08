@@ -22,6 +22,8 @@ namespace DLTAA.Classes
                 Console.WriteLine($"{nome} está em andamento (iteração {i}/{numeroDeIteracoes})");
                 await Task.Delay(milisegundos);
             }
+            
         }
+        
     }
 }

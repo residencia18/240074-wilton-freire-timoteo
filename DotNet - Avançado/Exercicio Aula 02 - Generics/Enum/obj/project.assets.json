@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\02049125550\\.nuget\\packages\\": {}
+    "/home/wilton-freire-timoteo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\02049125550\\Desktop\\Resistic18 - Avançado\\DotNet - Avançado\\Exercicio Aula 02 - Generics\\Enum\\Enum.csproj",
+      "projectUniqueName": "/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Enum/Enum.csproj",
       "projectName": "Enum",
-      "projectPath": "C:\\Users\\02049125550\\Desktop\\Resistic18 - Avançado\\DotNet - Avançado\\Exercicio Aula 02 - Generics\\Enum\\Enum.csproj",
-      "packagesPath": "C:\\Users\\02049125550\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\02049125550\\Desktop\\Resistic18 - Avançado\\DotNet - Avançado\\Exercicio Aula 02 - Generics\\Enum\\obj\\",
+      "projectPath": "/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Enum/Enum.csproj",
+      "packagesPath": "/home/wilton-freire-timoteo/.nuget/packages/",
+      "outputPath": "/home/wilton-freire-timoteo/Área de trabalho/240074-wilton-freire-timoteo/DotNet - Avançado/Exercicio Aula 02 - Generics/Enum/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\02049125550\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/wilton-freire-timoteo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
       }
     }
   }
