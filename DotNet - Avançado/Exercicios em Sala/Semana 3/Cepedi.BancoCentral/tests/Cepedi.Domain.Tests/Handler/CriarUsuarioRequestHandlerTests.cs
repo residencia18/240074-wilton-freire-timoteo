@@ -1,8 +1,8 @@
 ﻿using Cepedi.BancoCentral.Domain.Entities;
 using Cepedi.BancoCentral.Domain.Handlers;
 using Cepedi.BancoCentral.Domain.Repository;
-using Cepedi.Shareable.Requests;
-using Cepedi.Shareable.Responses;
+using Cepedi.BancoCentral.Shareable.Requests;
+using Cepedi.BancoCentral.Shareable.Responses;
 using FluentAssertions;
 using Microsoft.Extensions.Logging;
 using Moq;

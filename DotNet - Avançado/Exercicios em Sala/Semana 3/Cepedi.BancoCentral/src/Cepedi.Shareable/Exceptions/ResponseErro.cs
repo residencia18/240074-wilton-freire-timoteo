@@ -1,4 +1,4 @@
-﻿namespace Cepedi.Shareable.Exceptions;
+﻿namespace Cepedi.BancoCentral.Shareable.Exceptions;
 public class ResponseErro
 {
     public string Titulo { get; set; } = default!;

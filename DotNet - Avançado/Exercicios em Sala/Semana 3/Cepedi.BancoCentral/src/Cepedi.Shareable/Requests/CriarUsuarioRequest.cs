@@ -1,7 +1,7 @@
-using Cepedi.Shareable.Responses;
+using Cepedi.BancoCentral.Shareable.Responses;
 using MediatR;
 
-namespace Cepedi.Shareable.Requests;
+namespace Cepedi.BancoCentral.Shareable.Requests;
 public class CriarUsuarioRequest : IRequest<CriarUsuarioResponse>
 {
     public string Nome { get; set; } = default!;

@@ -1,6 +1,8 @@
 using Cepedi.BancoCentral.Domain;
 using Cepedi.BancoCentral.Domain.Entities;
 using Cepedi.BancoCentral.Domain.Repository;
+using Cepedi.BancoCentral.Shareable.Requests;
+using Cepedi.BancoCentral.Shareable.Responses;
 using Microsoft.EntityFrameworkCore;
 
 namespace Cepedi.BancoCentral.Data.Repositories
@@ -33,5 +35,10 @@ namespace Cepedi.BancoCentral.Data.Repositories
         public async Task<UsuarioEntity> ObtemUsuarioIdAsync(int idUsuario)
             => await _context.Usuario.Where(usuario
                 => usuario.Id == idUsuario).FirstOrDefaultAsync();
+
+        public Task<DeletarUsuarioResponse> DeletarUsuarioAsync(DeletarUsuarioRequest request)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

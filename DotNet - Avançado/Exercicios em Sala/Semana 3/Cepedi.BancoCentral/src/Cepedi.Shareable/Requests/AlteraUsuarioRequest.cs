@@ -1,5 +1,8 @@
-using Cepedi.Shareable.Responses;
+using Cepedi.BancoCentral.Shareable.Responses;
 using MediatR;
+
+namespace Cepedi.BancoCentral.Shareable.Requests;
+
 public record AlteraUsuarioRequest : IRequest<AlterarUsuarioResponse>
 {
     public int Id { get; set; } = default!;

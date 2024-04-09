@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="wilton@cepedi-rds.ctoouoyswtmi.us-east-2.rds.amazonaws.com" uuid="d8e5da98-5cbc-461f-8017-a4afaf558c30">
+      <driver-ref>sqlserver.jb</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.jetbrains.jdbc.sqlserver.SqlServerDriver</jdbc-driver>
+      <jdbc-url>Server=cepedi-rds.ctoouoyswtmi.us-east-2.rds.amazonaws.com,1433;Database=wilton;User Id=aluno;Password=changeme;TrustServerCertificate=True</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

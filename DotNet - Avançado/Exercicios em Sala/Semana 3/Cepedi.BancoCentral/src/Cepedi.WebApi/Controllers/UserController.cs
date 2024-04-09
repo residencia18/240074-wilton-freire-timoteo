@@ -1,8 +1,8 @@
 ﻿using Cepedi.BancoCentral.Domain;
 using Cepedi.BancoCentral.Domain.Repository;
-using Cepedi.Shareable.Exceptions;
-using Cepedi.Shareable.Requests;
-using Cepedi.Shareable.Responses;
+using Cepedi.BancoCentral.Shareable.Exceptions;
+using Cepedi.BancoCentral.Shareable.Requests;
+using Cepedi.BancoCentral.Shareable.Responses;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -27,13 +27,13 @@ public class UserController : ControllerBase
     //{
     //    return await _mediator.Send(new CriarUsuarioRequest();
     //}
-    
+
     //[HttpGet()]
     //public async Task<ActionResult<IEnumerable<CriarUsuarioResponse>>> ConsultarCursosAsync()
     //{
     //    return Ok(await _obtemCursoHandler.ObterCursosAsync());
     //}
-    
+
     [HttpPost]
     [ProducesResponseType(typeof(CriarUsuarioResponse), StatusCodes.Status200OK)]
     [ProducesResponseType(typeof(ResponseErro), StatusCodes.Status400BadRequest)]
@@ -49,8 +49,8 @@ public class UserController : ControllerBase
     public async Task<ActionResult<AlterarUsuarioResponse>> AlterarCursoAsync([FromBody] AlteraUsuarioRequest request)
     {
         return await _mediator.Send(request);
-    //    var cursoId = await _alteraCursoHandler.AlterarCursoAsync(request);
-    //    return Ok(cursoId);
+        //    var cursoId = await _alteraCursoHandler.AlterarCursoAsync(request);
+        //    return Ok(cursoId);
     }
 
     //[HttpPut]
@@ -59,4 +59,14 @@ public class UserController : ControllerBase
     //    var cursoId = await _alteraCursoHandler.AlterarCursoAsync(request);
     //    return Ok(cursoId);
     //}
+
+    [HttpDelete]
+    [ProducesResponseType(typeof(DeletarUsuarioResponse), StatusCodes.Status200OK)]
+    [ProducesResponseType(typeof(ResponseErro), StatusCodes.Status400BadRequest)]
+    public async Task<ActionResult<DeletarUsuarioResponse>> DeletarUsuarioAsync([FromBody] DeletarUsuarioRequest Usuario)
+    {
+        return await _mediator.Send(Usuario);
+    }
+    
+
 }
