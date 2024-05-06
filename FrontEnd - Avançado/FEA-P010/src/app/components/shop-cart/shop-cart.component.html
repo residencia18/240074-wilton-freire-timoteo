@@ -1,0 +1,60 @@
+<div class="shop-cart">
+  <div class="products">
+    <div class="item" *ngFor="let item of products">
+      <img [src]="item.imgURL" alt="" />
+      <span>
+        {{ item.name }}
+      </span>
+      <span>
+        Valor:
+        {{ item.price | currency : "BRL" : "symbol" : "1.2-2" }}
+      </span>
+      <button (click)="addItem(item)">Adicionar produto</button>
+    </div>
+  </div>
+  <!-- <form id="form" (ngSubmit)="addItem()" [formGroup]="form">
+    <div class="input-group">
+      <label for="name">
+        Nome do produto
+        <input id="name" formControlName="name" type="text" />
+      </label>
+      <label for="price">
+        Preço do produto
+        <input id="price" formControlName="price" type="number" />
+      </label>
+    </div>
+    <div class="input-group">
+      <label for="quantity">
+        Quantidade do produto
+        <input id="quantity" formControlName="quantity" type="number" />
+      </label>
+      <label for="imgURL">
+        Imagem do produto
+        <input id="imgURL" formControlName="imgURL" type="text" />
+      </label>
+    </div>
+    <button type="submit">Adicionar produto</button>
+  </form> -->
+  <div class="cart-container">
+    <div class="items">
+      <div class="item" *ngFor="let item of cart()">
+        <img [src]="item.imgURL" alt="" />
+        <span>
+          {{ item.name }}
+        </span>
+        <span>
+          Quantidade:
+          {{ item.quantity }}
+        </span>
+        <span>
+          Valor:
+          {{
+            item.quantity * item.price | currency : "BRL" : "symbol" : "1.2-2"
+          }}
+        </span>
+        <button (click)="removeItem(item.id)">Remover produto</button>
+      </div>
+    </div>
+    Total da compra: {{ precoTotal() | currency : "BRL" : "symbol" : "1.2-2" }}
+  </div>
+</div>
