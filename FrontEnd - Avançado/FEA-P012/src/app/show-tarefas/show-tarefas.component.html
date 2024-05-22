@@ -1,0 +1,11 @@
+<ul class="task-list">
+  <li *ngFor="let tarefa of tarefasStore.tarefas()" class="task-item">
+    {{ tarefa.descricao }}
+    <button [routerLink]="['/edita-tarefa', tarefa.id]" class="remove-button">
+      Editar
+    </button>
+    <button (click)="removeTarefa(tarefa.id)" class="remove-button">
+      Remover
+    </button>
+  </li>
+</ul>
